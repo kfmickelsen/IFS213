@@ -7,8 +7,8 @@ banner:https://unsplash.com/photos/IMUwe-p1yqs
 
 # When using a custom domain these fields must be updated to match
 # the Github account and repository name
-#acct: <GitHub account/kfmickelsen>
-#repo: <GitHub IFS213>
+#acct: <GitHub account/username>
+#repo: <GitHub repository>
 
 ######################################################
 # Defines options shown in the header navigation menu
